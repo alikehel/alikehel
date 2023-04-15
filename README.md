@@ -8,4 +8,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alisaber272&label=Profile%20views&color=0e75b6&style=flat" alt="alisaber272" /> </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/428121102561181697?theme=dark&bg=000&idleMessage=Offline)](https://discord.com/users/428121102561181697)
+<p dir="auto" style="width:100%;"><a href="https://discord.com/users/428121102561181697" rel="nofollow"><img src="https://camo.githubusercontent.com/bdace6dab2df394b7cbdbb62a587bb07760fcbe0e5aa8ba4df0afae90d297587/68747470733a2f2f6c616e796172642e636e7261642e6465762f6170692f3432383132313130323536313138313639373f7468656d653d6461726b2662673d3030302669646c654d6573736167653d4f66666c696e65" alt="Discord Presence" data-canonical-src="https://lanyard.cnrad.dev/api/428121102561181697?theme=dark&amp;bg=000&amp;idleMessage=Offline" style="width: 100%;"></a></p>
