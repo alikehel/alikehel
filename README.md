@@ -33,6 +33,8 @@ I am a computer science student at Benha University aspiring to become a full-st
 
 ## My skills
 
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/alisaber272)
+
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img
