@@ -10,7 +10,7 @@ I am a computer science student at Benha University aspiring to become a full-st
 
 ## How to contact me
 
-<a href="https://www.linkedin.com/in/ali-kehel">
+<a href="https://www.linkedin.com/in/alikehel">
     <img
         align="left"
         alt="Ali Kehel | Linkedin"
@@ -33,7 +33,7 @@ I am a computer science student at Benha University aspiring to become a full-st
 
 ## My skills
 
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/ali-kehel)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/alikehel)
 
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -167,9 +167,9 @@ I am a computer science student at Benha University aspiring to become a full-st
 
 ## GitHub analytics
 
-![ali-kehel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-kehel&show_icons=true&theme=transparent)
+![alikehel's GitHub stats](https://github-readme-stats.vercel.app/api?username=alikehel&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ali-kehel&show_icons=true&locale=en&layout=compact&theme=transparent&hide=java)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=alikehel&show_icons=true&locale=en&layout=compact&theme=transparent&hide=java)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
@@ -177,7 +177,7 @@ I am a computer science student at Benha University aspiring to become a full-st
 
 <p align="left">
     <img
-        src="https://komarev.com/ghpvc/?username=ali-kehel&label=Profile%20views&color=0e75b6&style=flat"
-        alt="ali-kehel"
+        src="https://komarev.com/ghpvc/?username=alikehel&label=Profile%20views&color=0e75b6&style=flat"
+        alt="alikehel"
     />
 </p>
