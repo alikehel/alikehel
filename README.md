@@ -1,12 +1,8 @@
 <h1>Hi, I'm Ali Kehel. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<br/>
-
 ## About me
 
-I am a computer science student at Benha University aspiring to become a full-stack developer. I am passionate about technology and eager to learn, grow and make a positive impact in the industry. I am seeking opportunities to gain hands-on experience and build my skills while working towards my career.
-
-<br/>
+I am a computer science graduate at Benha University aspiring to become a Back-End Developer.
 
 ## How to contact me
 
@@ -29,11 +25,10 @@ I am a computer science student at Benha University aspiring to become a full-st
 
 <br/>
 <br/>
-<br/>
 
 ## My skills
 
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/alikehel)
+<!--[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/alikehel)-->
 
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -163,15 +158,11 @@ I am a computer science student at Benha University aspiring to become a full-st
     </a>&nbsp;
 </p>
 
-<br/>
-
 ## GitHub analytics
 
 ![alikehel's GitHub stats](https://github-readme-stats.vercel.app/api?username=alikehel&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=alikehel&show_icons=true&locale=en&layout=compact&theme=transparent&hide=java)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
 
 ## Extra
 
