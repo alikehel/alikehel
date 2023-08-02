@@ -1,8 +1,6 @@
 <h1>Hi, I'm Ali Kehel. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## About me
-
-I am a computer science graduate at Benha University aspiring to become a Back-End Developer.
+A computer science graduate at Benha University aspiring to become a Back-End Developer.
 
 ## How to contact me
 
