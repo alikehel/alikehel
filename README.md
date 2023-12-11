@@ -162,6 +162,8 @@ A computer science graduate at Benha University aspiring to become a Back-End De
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=alikehel&show_icons=true&locale=en&layout=compact&theme=transparent&hide=java)](https://github.com/anuraghazra/github-readme-stats)
 
+![me](https://wakatime.com/share/@018c48b6-8e9e-4978-8b66-aebd8fcdb777/8ef5922c-86aa-445e-9020-a3ff7c9dc617.svg)
+
 ## Extra
 
 <p align="left">
