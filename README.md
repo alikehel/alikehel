@@ -32,7 +32,7 @@
     <img
         src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
         alt="html5"
-        width="12.1%"
+        width="12%"
         height="40"
     />
 </a>
@@ -40,7 +40,7 @@
     <img
         src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
         alt="css3"
-        width="12.1%"
+        width="12%"
         height="40"
     />
 </a>
@@ -48,7 +48,7 @@
     <img
         src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
         alt="javascript"
-        width="12.1%"
+        width="12%"
         height="40"
     />
 </a>
@@ -56,7 +56,7 @@
     <img
         src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
         alt="typescript"
-        width="12.1%"
+        width="12%"
         height="40"
     />
 </a>
@@ -64,7 +64,7 @@
     <img
         src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"
         alt="nodejs"
-        width="12.1%"
+        width="12%"
         height="40"
     />
 </a>
@@ -72,7 +72,7 @@
     <img
         src="https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white"
         alt="express"
-        width="12.1%"
+        width="12%"
         height="40"
     />
 </a>
@@ -80,7 +80,7 @@
     <img
         src="https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"
         alt="postgresql"
-        width="12.1%"
+        width="12%"
         height="40"
     />
 </a>
@@ -88,7 +88,7 @@
     <img
         src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
         alt="mongodb"
-        width="12.1%"
+        width="12%"
         height="40"
     />
 </a>
