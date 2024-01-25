@@ -15,7 +15,6 @@
         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
         height="50"
         width="19%"
-
     /> 
 </a>
 <a href="mailto:ali.kehel.27.2@gmail.com">
@@ -24,7 +23,6 @@
         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         height="50"
         width="19%"
-
     />
 </a>
 
