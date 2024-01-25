@@ -99,7 +99,7 @@
     <img
         src="https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"
         alt="postman"
-        width="13.9%"
+        width="13.8%"
         height="40"
     />
 </a>
@@ -107,7 +107,7 @@
     <img
         src="https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazon%20aws&logoColor=white"
         alt="aws"
-        width="13.9%"
+        width="13.8%"
         height="40"
     />
 </a>
@@ -115,7 +115,7 @@
     <img
         src="https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white"
         alt="circleci"
-        width="13.9%"
+        width="13.8%"
         height="40"
     />
 </a>
@@ -123,7 +123,7 @@
     <img
         src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"
         alt="figma"
-        width="13.9%"
+        width="13.8%"
         height="40"
     />
 </a>
@@ -131,7 +131,7 @@
     <img
         src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"
         alt="git"
-        width="13.9%"
+        width="13.8%"
         height="40"
     />
 </a>
@@ -139,7 +139,7 @@
     <img
         src="https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white"
         alt="jest"
-        width="13.9%"
+        width="13.8%"
         height="40"
     />
 </a>
@@ -147,7 +147,7 @@
     <img
         src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"
         alt="linux"
-        width="13.9%"
+        width="13.8%"
         height="40"
     />
 </a>
