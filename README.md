@@ -161,7 +161,9 @@
 
 ## STATS
 
+<!--
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/644928bbe272577374980ac7?variant=dark" alt="roadmap.sh" width="100%"/></a>
+-->
 
 ![alikehel's GitHub stats](https://github-readme-stats.vercel.app/api?username=alikehel&show_icons=true&theme=transparent&card_width=1080vw)
 
