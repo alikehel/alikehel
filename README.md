@@ -3,7 +3,7 @@
 <!--A computer science graduate at Benha University aspiring to become a Back-End Developer.-->
 
 <img
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJubHdkd3ZoMWV3dGZ5azliMHZ4bjJ3eHJ0aDVrd29xd3U0Mzk3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/frSfC5NcmyF7q/giphy.gif"
+    src="./kilua.gif"
     width="100%"
 /> 
 
