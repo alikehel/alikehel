@@ -2,11 +2,43 @@
 
 <!--A computer science graduate at Benha University aspiring to become a Back-End Developer.-->
 
-<img
-    src="./kilua.gif"
-    width="100%"
-/> 
+<table border="0" align="center">
+ <tr>
+    <td width="750px">
+        <ul>
+            <li>I'm a backend developer</li>
+            <li>I use NodeJS, TypeScript, PostgreSQL</li>
+            <li>I'm currently looking for a full-time software engineering job</li>
+        </ul>
+    </td>
+    <td width="250px">
+        <img
+            style="float:left"
+            src="./kilua.gif"
+            width="100%"
+        />
+    </td>
+ </tr>
+</table>
 
+<!--
+<div>
+    <ul style="width:"60%">
+        <li>ewdfedf</li>
+        <li>ewdfedf</li>
+        <li>ewdfedf</li>
+        <li>ewdfedf</li>
+    </ul>
+    <img
+        style="float:left"
+        src="./kilua.gif"
+        width="30%"
+    />
+</div>
+-->
+
+
+<!--
 ## CONTACT
 
 <a href="https://www.linkedin.com/in/alikehel">
@@ -158,20 +190,35 @@
 </a>
 
 <br/>
-
-## STATS
+-->
 
 <!--
+## STATS
+
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/644928bbe272577374980ac7?variant=dark" alt="roadmap.sh" width="100%"/></a>
--->
 
 ![alikehel's GitHub stats](https://github-readme-stats.vercel.app/api?username=alikehel&show_icons=true&theme=transparent&card_width=1080vw)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=alikehel&show_icons=true&locale=en&layout=compact&theme=transparent&hide=java&card_width=1080vw)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
+<table border="0" align="center">
+ <tr>
+    <td width="1000px">
+        <img
+            src="https://wakatime.com/share/@018c48b6-8e9e-4978-8b66-aebd8fcdb777/8ef5922c-86aa-445e-9020-a3ff7c9dc617.svg"
+            alt="wakatime stats"
+            width="1000px"
+        />
+    </td>
+ </tr>
+</table>
+
+<!--
 ![me](https://wakatime.com/share/@018c48b6-8e9e-4978-8b66-aebd8fcdb777/8ef5922c-86aa-445e-9020-a3ff7c9dc617.svg)
+-->
 
-
+<!--
 ## EXTRA
 
 <p align="left">
@@ -181,3 +228,4 @@
         width="100%"
     />
 </p>
+-->
