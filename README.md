@@ -36,11 +36,26 @@
 <table border="0" align="center">
     <tr>
         <td width="1000px">
-            <img
-                src="https://wakatime.com/share/@018c48b6-8e9e-4978-8b66-aebd8fcdb777/8ef5922c-86aa-445e-9020-a3ff7c9dc617.svg"
-                alt="Wakatime Stats"
-                width="1000px"
-                />
+            <a href="https://wakatime.com" target="_blank">
+                <img
+                    src="https://wakatime.com/share/@018c48b6-8e9e-4978-8b66-aebd8fcdb777/8ef5922c-86aa-445e-9020-a3ff7c9dc617.svg"
+                    alt="Wakatime Stats"
+                    width="1000px"
+                    />
+            </a>
+        </td>
+    </tr>
+</table>
+<table border="0" align="center">
+    <tr>
+        <td width="1000px">
+            <a href="https://github.com/lowlighter/metrics" target="_blank">
+                <img
+                    src="/github-metrics.svg"
+                    alt="Metrics"
+                    width="1000px"
+                    />
+            </a>
         </td>
     </tr>
 </table>
