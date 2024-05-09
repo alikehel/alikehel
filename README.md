@@ -4,8 +4,10 @@
         <td width="650px">
             <ul>
                 <li>:computer: I'm a backend developer</li>
-                <li>:rocket: I use NodeJS, TypeScript, PostgreSQL</li>
+                <li>:computer: I use NodeJS, TypeScript, PostgreSQL</li>
                 <li>:mag_right: I'm currently looking for a full-time software engineering job</li>
+                <li>:video_game: I love watching anime and playing video games</li>                
+                <li>:video_game: My favourite anime is Hunter X Hunter & My favourite game is Rainbow Six Siege</li>                
                 <li>:mailbox: Reach me at <a href="mailto:ali.kehel.27.2@gmail.com">ali.kehel.27.2@gmail.com</a>, <a href="https://www.linkedin.com/in/alikehel/">LinkedIn</a>, <a href="https://twitter.com/alikehel">Twitter</a></li>
             </ul>
         </td>
