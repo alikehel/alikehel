@@ -1,7 +1,7 @@
 <h1>Hi, I'm Ali Kehel. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <table border="0" align="center">
     <tr>
-        <td width="750px">
+        <td width="650px">
             <ul>
                 <li>:computer: I'm a backend developer</li>
                 <li>:rocket: I use NodeJS, TypeScript, PostgreSQL</li>
@@ -9,7 +9,7 @@
                 <li>:mailbox: Reach me at <a href="mailto:ali.kehel.27.2@gmail.com">ali.kehel.27.2@gmail.com</a>, <a href="https://www.linkedin.com/in/alikehel/">LinkedIn</a>, <a href="https://twitter.com/alikehel">Twitter</a></li>
             </ul>
         </td>
-        <td width="250px">
+        <td width="350px">
             <img
                 style="float:left"
                 src="./kilua.gif"
