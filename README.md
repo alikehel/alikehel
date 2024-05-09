@@ -23,7 +23,7 @@
         <td width="1000px">
             <a href="https://discord.com/users/428121102561181697" target="_blank">
                 <img
-                    src="https://lanyard.cnrad.dev/api/428121102561181697"
+                    src="https://lanyard.cnrad.dev/api/428121102561181697?bg=00000000"
                     alt="Discord Presence"
                     width="1000px"
                     />
