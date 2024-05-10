@@ -42,3 +42,6 @@ jobs:
           plugin_anilist_sections: watching, characters
           plugin_anilist_limit: 10
           plugin_anilist_limit_characters: 11
+          plugin_steam: yes
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam_user: 76561198837480177
