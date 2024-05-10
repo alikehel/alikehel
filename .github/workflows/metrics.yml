@@ -45,3 +45,4 @@ jobs:
           plugin_steam: yes
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_user: "76561198837480177"
+          plugin_steam_playtime_threshold: 12
