@@ -1,4 +1,5 @@
 <h1>Hi, I'm Ali Kehel. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <table border="0" align="center">
     <tr>
         <td width="650px">
@@ -20,42 +21,71 @@
         </td>
     </tr>
 </table>
+
 <table border="0" align="center">
     <tr>
         <td width="1000px">
-            <a href="https://discord.com/users/428121102561181697" target="_blank">
-                <img
-                    src="https://lanyard.cnrad.dev/api/428121102561181697?bg=00000000"
-                    alt="Discord Presence"
-                    width="1000px"
-                    />
-            </a>
+            <details>
+                <summary>Discord Presence</summary>
+                <a href="https://discord.com/users/428121102561181697" target="_blank">
+                    <img
+                        src="https://lanyard.cnrad.dev/api/428121102561181697?bg=00000000"
+                        alt="Discord Presence"
+                        width="1000px"
+                        />
+                </a>
+            </details>
         </td>
     </tr>
 </table>
+
 <table border="0" align="center">
     <tr>
         <td width="1000px">
-            <a href="https://wakatime.com" target="_blank">
-                <img
-                    src="https://wakatime.com/share/@018c48b6-8e9e-4978-8b66-aebd8fcdb777/8ef5922c-86aa-445e-9020-a3ff7c9dc617.svg"
-                    alt="Wakatime Stats"
-                    width="1000px"
-                    />
-            </a>
+            <details open>
+                <summary>Wakatime Metrics</summary>
+                <a href="https://wakatime.com" target="_blank">
+                    <img
+                        src="https://wakatime.com/share/@018c48b6-8e9e-4978-8b66-aebd8fcdb777/8ef5922c-86aa-445e-9020-a3ff7c9dc617.svg"
+                        alt="Wakatime Stats"
+                        width="1000px"
+                        />
+                </a>
+            </details>
         </td>
     </tr>
 </table>
+
 <table border="0" align="center">
     <tr>
         <td width="1000px">
-            <a href="https://github.com/lowlighter/metrics" target="_blank">
-                <img
-                    src="/github-metrics.svg"
-                    alt="Metrics"
-                    width="1000px"
-                    />
-            </a>
+            <details>
+                <summary>Github Metrics</summary>
+                <a href="https://github.com/lowlighter/metrics" target="_blank">
+                    <img
+                        src="/metrics.svg"
+                        alt="Metrics"
+                        width="1000px"
+                        />
+                </a>
+            </details>
+        </td>
+    </tr>
+</table>
+
+<table border="0" align="center">
+    <tr>
+        <td width="1000px">
+            <details>
+                <summary>Anime/Gaming Metrics</summary>
+                <a href="https://github.com/lowlighter/metrics" target="_blank">
+                    <img
+                        src="/other-metrics.svg"
+                        alt="Other Metrics"
+                        width="1000px"
+                        />
+                </a>
+            </details>
         </td>
     </tr>
 </table>
