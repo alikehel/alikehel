@@ -28,6 +28,7 @@ jobs:
           user: alikehel
           template: classic
           # base: header, activity, community, repositories, metadata
+          base_skip: true
           config_timezone: Africa/Cairo
           plugin_anilist: yes
           plugin_anilist_medias: anime
