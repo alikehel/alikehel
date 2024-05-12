@@ -24,6 +24,7 @@ jobs:
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
+          filename: metrics.svg
           user: alikehel
           template: classic
           base: header, activity, community, repositories, metadata
