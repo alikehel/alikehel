@@ -27,7 +27,7 @@ jobs:
           filename: other-metrics.svg
           user: alikehel
           template: classic
-          # base: header, activity, community, repositories, metadata
+          base: metadata
           base_skip: yes
           config_timezone: Africa/Cairo
           plugin_anilist: yes
