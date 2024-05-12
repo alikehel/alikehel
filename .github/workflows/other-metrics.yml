@@ -32,10 +32,12 @@ jobs:
           config_timezone: Africa/Cairo
           plugin_anilist: yes
           plugin_anilist_medias: anime
-          plugin_anilist_sections: watching, characters
+          plugin_anilist_sections: favorites, watching, characters
           plugin_anilist_limit: 10
-          plugin_anilist_limit_characters: 11
+          plugin_anilist_limit_characters: 22
           plugin_steam: yes
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_user: "76561198837480177"
           plugin_steam_playtime_threshold: 12
+          plugin_steam_games_limit: 3
+          plugin_steam_recent_games_limit: 3
