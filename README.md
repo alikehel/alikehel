@@ -42,7 +42,7 @@
 <table border="0" align="center">
     <tr>
         <td width="1000px">
-            <details open>
+            <details> <!-- open -->
                 <summary>Wakatime Metrics</summary>
                 <a href="https://wakatime.com" target="_blank">
                     <img
