@@ -4,7 +4,7 @@
     <tr>
         <td width="650px">
             <ul>
-                <li>:computer: I'm a fulstack javascript developer</li>
+                <li>:computer: I'm a fullstack javascript developer</li>
                 <li>:computer: I use NodeJS, TypeScript, PostgreSQL and ReactJS</li>
                 <li>:mag_right: I'm currently looking for a full-time software engineering job</li>
                 <li>:video_game: I love watching anime and playing video games</li>                
