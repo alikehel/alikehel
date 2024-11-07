@@ -4,8 +4,8 @@
     <tr>
         <td width="650px">
             <ul>
-                <li>:computer: I'm a backend developer</li>
-                <li>:computer: I use NodeJS, TypeScript, PostgreSQL</li>
+                <li>:computer: I'm a fulstack javascript developer</li>
+                <li>:computer: I use NodeJS, TypeScript, PostgreSQL and ReactJS</li>
                 <li>:mag_right: I'm currently looking for a full-time software engineering job</li>
                 <li>:video_game: I love watching anime and playing video games</li>                
                 <li>:video_game: My favourite anime is HxH & My favourite game is Rainbow Six Siege</li>                
