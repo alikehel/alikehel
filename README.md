@@ -4,11 +4,12 @@
     <tr>
         <td width="650px">
             <ul>
-                <li>:computer: I'm a fullstack javascript developer</li>
-                <li>:computer: I use NodeJS, TypeScript, PostgreSQL and ReactJS</li>
-                <li>:mag_right: I'm currently looking for a full-time software engineering job</li>
+                <li>:computer: I'm a Software Engineer: full-stack TypeScript, Node.js and React</li>
+                <li>:computer: I use Node.js, TypeScript, React, MySQL and PostgreSQL</li>
+                <li>:mag_right: I'm open to full-time roles in Egypt (hybrid preferred), remote roles, or relocation</li>
                 <li>:video_game: I love watching anime and playing video games</li>                
                 <li>:video_game: My favourite anime is HxH & My favourite game is Rainbow Six Siege</li>                
+                <li>:globe_with_meridians: Resume, experience and projects at <a href="https://alikehel.dev">alikehel.dev</a></li>
                 <li>:mailbox: Reach me at <a href="mailto:ali.kehel.27.2@gmail.com">ali.kehel.27.2@gmail.com</a>, <a href="https://www.linkedin.com/in/alikehel/">LinkedIn</a>, <a href="https://twitter.com/alikehel">Twitter</a></li>
             </ul>
         </td>
