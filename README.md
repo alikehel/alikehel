@@ -4,11 +4,10 @@
     <tr>
         <td width="650px">
             <ul>
-                <li>:computer: I'm a Software Engineer: full-stack TypeScript, Node.js and React</li>
-                <li>:computer: I use Node.js, TypeScript, React, MySQL and PostgreSQL</li>
+                <li>:computer: I'm a Software Engineer: full-stack TypeScript, Node.js and React, with MySQL and PostgreSQL</li>
                 <li>:mag_right: I'm open to full-time roles in Egypt (hybrid preferred), remote roles, or relocation</li>
                 <li>:video_game: I love watching anime and playing video games</li>                
-                <li>:video_game: My favourite anime is HxH & My favourite game is Rainbow Six Siege</li>                
+                <li>:video_game: My favourite anime is HxH and my favourite game is Rainbow Six Siege</li>                
                 <li>:globe_with_meridians: Resume, experience and projects at <a href="https://alikehel.dev">alikehel.dev</a></li>
                 <li>:mailbox: Reach me at <a href="mailto:ali.kehel.27.2@gmail.com">ali.kehel.27.2@gmail.com</a>, <a href="https://www.linkedin.com/in/alikehel/">LinkedIn</a>, <a href="https://twitter.com/alikehel">Twitter</a></li>
             </ul>
@@ -44,11 +43,11 @@
     <tr>
         <td width="1000px">
             <details> <!-- open -->
-                <summary>Wakatime Metrics</summary>
+                <summary>WakaTime Metrics</summary>
                 <a href="https://wakatime.com" target="_blank">
                     <img
                         src="https://wakatime.com/share/@018c48b6-8e9e-4978-8b66-aebd8fcdb777/8ef5922c-86aa-445e-9020-a3ff7c9dc617.svg"
-                        alt="Wakatime Stats"
+                        alt="WakaTime Stats"
                         width="1000px"
                         />
                 </a>
@@ -61,7 +60,7 @@
     <tr>
         <td width="1000px">
             <details>
-                <summary>Github Metrics</summary>
+                <summary>GitHub Metrics</summary>
                 <a href="https://github.com/lowlighter/metrics" target="_blank">
                     <img
                         src="/metrics.svg"
