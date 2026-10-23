@@ -32,7 +32,7 @@ jobs:
           config_timezone: Africa/Cairo
           plugin_anilist: yes
           plugin_anilist_medias: anime
-          plugin_anilist_sections: watching, favorites, characters
+          plugin_anilist_sections: watching, characters
           plugin_anilist_limit: 10
           plugin_anilist_limit_characters: 22
           plugin_steam: yes
